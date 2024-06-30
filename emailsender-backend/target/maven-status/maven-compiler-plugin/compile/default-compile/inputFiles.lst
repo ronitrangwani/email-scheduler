@@ -1,0 +1,6 @@
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\EmailsenderApplication.java
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\repository\sendEmailRepo.java
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\model\sendEmail.java
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\controller\sendEmailController.java
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\security\CorsConfig.java
+E:\Projects\Email_Scheduler_Using_SpringBoot_ReactJS-main\emailsender-api\src\main\java\com\example\emailsender\emailsender\service\sendEmailService.java
